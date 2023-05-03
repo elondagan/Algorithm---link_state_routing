@@ -10,4 +10,4 @@ During the program run, each router builds and maintains during the phases adjac
 
 General notes:
 - using only the imports: java.net.* , java.util.* , java.io.* 
-- the input has a fixed known form - txt file where each row contains the new edge weights of the corresponding router's neighbors.
+- the input has a fixed known form - txt file where each row contains the new edge weights of the corresponding router's neighbors. 
